@@ -1,4 +1,7 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 
+
+
+https://user-images.githubusercontent.com/98197211/218663689-c527052f-9550-4acf-a751-247dcb72fad1.mov
 
 Make sure to install the dependencies:
 
