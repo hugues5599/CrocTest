@@ -9,6 +9,8 @@
 
   export default {
     name: "Reset",
+    
+    
     components: { PasswordReset }
 }
   </script>
