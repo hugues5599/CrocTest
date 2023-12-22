@@ -24,7 +24,7 @@
           </div>
           <div class="mb-6">
             <label class="block text-gray-700 font-bold mb-2" for="password">
-              Password
+              Passwordssssssssssssssssssss
             </label>
             <input
               type="password"
